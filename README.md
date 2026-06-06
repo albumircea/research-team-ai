@@ -81,4 +81,3 @@ A curated `tools/` folder of **reusable** probes, human-promoted only: an agent
 proposes a probe in its report → you review + commit it to `tools/` → the next
 run's Empiricist reuses it before writing new throwaway scripts. Deferred until
 reuse actually shows up; today it's `_scratch/`-only.
-# research-team-ai

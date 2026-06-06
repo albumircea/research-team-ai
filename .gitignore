@@ -1,0 +1,9 @@
+# Empiricist sandbox — throwaway, never tracked
+_scratch/*
+!_scratch/.gitkeep
+
+# Optional local copies of outputs
+_out/
+
+# OS noise
+.DS_Store
